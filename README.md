@@ -17,7 +17,7 @@ I like to do screen prototyping (usually using figma), and I also like to "get m
 
 ## 🔍 Where to find me
 <div>
-  <a href=""><img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
+  <a href="https://gitlab.com/vintercardoso"><img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
   <a href="mailto:davi1406.10@gmail.com"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/> </a>
   <a href="https://www.linkedin.com/in/vintercardoso/"><img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>

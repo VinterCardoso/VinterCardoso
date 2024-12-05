@@ -9,39 +9,25 @@ I like to do screen prototyping (usually using figma), and I also like to "get m
   <tbody>
     <tr>
       <td>
-        <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> Python      
-      </td>
-      <td>
-            <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" /> Javascript
+            <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /> Java
       </td>
       <td>
             <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" /> Typescript
       </td>
       <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  /> React
+        <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> Python      
       </td>
     </tr>
     <tr>
       <td>
-          <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"  /> Express
-        </td>
-      <td>
-            <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /> Java
-      </td>
-      <td>
-            <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" alt="FSharp" /> FSharp
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  /> React
       </td>
       <td>
             <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> Figma
       </td>
-    </tr>
-    <tr>
-      <td>
+       <td>
             <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /> MySQL
       </td>
-      <td>
-          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="Vscode"  /> VSCode
-        </td>
     </tr>
   </tbody>
 </table>

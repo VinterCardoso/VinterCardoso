@@ -2,7 +2,7 @@
 ## 🤔 About me
 Currently studying Computer Science at the Federal Technological University of Paraná (UTFPR)\
 I did IT high school at UTFPR from 2016 to 2019, where I discovered my passion for programming, in the course I was able to learn programming languages such as Python, Java and Javascript.\
-I like to do screen prototyping (usually using figma), and I also like to "get my hands dirty" with backend.
+Currently working as backend developer.
 
 ## 🖥 Programming languages and tools
 <table>
